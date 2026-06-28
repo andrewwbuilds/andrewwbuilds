@@ -4,7 +4,7 @@
 - passionate about cybersecurity, programming, + robotics
 - startup enthusiast + entrepreneur
 - currently building @ https://klinn.works/
-- check out my website: https://www.andrew-wang.me/
+- check out my website: https://www.andrewcwang.me/
 
 ## My Tech Stack
 some stuff i work with!
