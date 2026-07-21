@@ -1,13 +1,12 @@
 <h1 align="left">hello! i'm Andrew!</h1>
 
-## About Me
+## about me
 - passionate about cybersecurity, programming, + robotics
 - startup enthusiast + entrepreneur
 - currently building @ https://klinn.works/
 - check out my website: https://www.andrewcwang.me/
 
-## My Tech Stack
-some stuff i work with!
+## my tech stack
 
 [![React][React.js]][React-url]
 [![Next.js][Next.js]][Next-url]
@@ -25,8 +24,7 @@ some stuff i work with!
 [![Supabase][Supabase]][Supabase-url]
 [![FastAPI][FastAPI]][FastAPI-url]
 
-## Let's Connect!
-shoot me a email! 
+## let's connect!
 
 email: andrewwang123118@gmail.com
 
