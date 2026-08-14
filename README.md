@@ -28,10 +28,10 @@
 
 email: andrewwang123118@gmail.com
 
-![Snake animation](https://github.com/AndrxwWxng/AndrxwWxng/blob/output/github-snake-dark.svg)
+![Snake animation](https://github.com/andrewwbuilds/andrewwbuilds/blob/output/github-snake-dark.svg)
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=andrxwwxng&label=Profile%20views&color=0e75b6&style=flat" alt="andrxwwxng" />
+  <img src="https://komarev.com/ghpvc/?username=andrewwbuilds&label=Profile%20views&color=0e75b6&style=flat" alt="andrewwbuilds" />
 </p>
 
 <!-- LINKS -->
