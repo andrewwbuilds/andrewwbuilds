@@ -3,7 +3,7 @@
 ## about me
 - passionate about cybersecurity, programming, + robotics
 - startup enthusiast + entrepreneur
-- currently building @ https://klinn.works/
+- currently building in cyber
 - check out my website: https://www.andrewcwang.me/
 
 ## my tech stack
